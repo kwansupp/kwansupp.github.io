@@ -32,6 +32,7 @@ plugins:
 header_pages:
   - pages/projects.md
   - pages/blog.md
+  - pages/readings.md
   - pages/about.md
 
 # collections settings
