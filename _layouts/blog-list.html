@@ -10,29 +10,23 @@ layout: default
   {{ content }}
 
   {%- if site.readings.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Readings" }}</h2>
+    {%- assign groupedByYear = site.readings | group_by_exp:"post", "post.date | date:'%Y'" -%}
+
+    {%- for item in groupedByYear -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: item.name }}</h2>
     <ul class="post-list">
-      {%- for post in site.readings -%}
+      
+      {%- for post in item.items -%}
       <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
+          <!-- <a class="post-link" href="{{ post.url | relative_url }}"> -->
+          <a class="post-list-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
+    {%- endfor -%}
 
-    <p class="feed-subscribe">
-      <a href="{{ 'feed.xml' | relative_url }}">
-        <svg class="svg-icon orange"><use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><span>Subscribe</span>
-      </a>
-    </p>
   {%- endif -%}
 
 </div>

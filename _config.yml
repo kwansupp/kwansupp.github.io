@@ -40,6 +40,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
+  readings:
+    output: true
+    permalink: /readings/:name/
 
 # defaults for collections
 # defaults:
