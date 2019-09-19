@@ -9,8 +9,8 @@ layout: default
 
   {{ content }}
 
-  {%- if site.readings.size > 0 -%}
-    {%- assign groupedByYear = site.readings | group_by_exp:"post", "post.date | date:'%Y'" -%}
+  {%- if site.notes.size > 0 -%}
+    {%- assign groupedByYear = site.notes | group_by_exp:"post", "post.date | date:'%Y'" -%}
 
     {%- for item in groupedByYear -%}
     <h2 class="post-list-heading">{{ page.list_title | default: item.name }}</h2>
