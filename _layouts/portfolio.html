@@ -1,0 +1,28 @@
+---
+layout: default
+---
+{%- if page.title -%}
+  <h1 class="page-heading">{{ page.title }}</h1>
+{%- endif -%} 
+
+{{ content }}
+
+<div class="row">
+
+  {% for project in site.projects %}
+    <a href="{{ project.url | prepend: site.baseurl }}">
+      <div class="col-xs-12 col-sm-6 col-md-4">
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+              {{ project.title }}
+          </div>
+        </div>
+      </div>
+    </a>
+
+  {% endfor %}
+
+</div>
+
+<!-- <script src="{{ "/assets/scripts/vendor/scrollreveal.min.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/assets/scripts/home.js" | prepend: site.baseurl }}"></script> -->
