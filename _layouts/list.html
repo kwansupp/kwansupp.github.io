@@ -14,7 +14,7 @@ layout: default
 
     {%- for item in groupedByYear -%}
     <h2 class="post-list-heading">{{ page.list_title | default: item.name }}</h2>
-    <ul class="post-list">
+    <ul>
       
       {%- for post in item.items -%}
       <li>
