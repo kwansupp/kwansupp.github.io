@@ -30,10 +30,11 @@ theme: minima
 plugins:
   - jekyll-feed
 header_pages:
+  - pages/about.md
   - pages/projects.md
   - pages/blog.md
   - pages/notes.md
-  - pages/about.md
+
 
 # collections settings
 collections:
