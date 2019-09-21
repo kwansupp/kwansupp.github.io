@@ -8,6 +8,65 @@
 	background-color: black;
 }
 
+/*PORTFOLIO LAYOUT*/
+.portfolio-wrapper {
+  width: 100%;
+}
+
+.portfolio-card {
+  width: 100%;
+  padding: 0;
+}
+
+.card-thumbnail {
+  width: 100%;
+}
+
+.row {
+  width: 100%;
+  /*margin: 8px -16px;*/
+}
+
+/* Add padding BETWEEN each column (if you want) */
+.row,
+.row > .column {
+  padding: 2px;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 32%;
+}
+
+/* Clear floats after rows */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+  background-color: white;
+  padding: 10px;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 900px) {
+  .column {
+    width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+
 /*TYPEWRITER EFFECT*/
 .typewriter h1 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */

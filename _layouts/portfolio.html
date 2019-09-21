@@ -1,28 +1,47 @@
 ---
 layout: default
 ---
-{%- if page.title -%}
-  <h1 class="page-heading">{{ page.title }}</h1>
-{%- endif -%} 
+<div class="portfolio-wrapper">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%} 
 
-{{ content }}
+  {{ content }}
 
-<div class="row">
+  <div class="row">
 
-  {% for project in site.projects %}
-    <a href="{{ project.url | prepend: site.baseurl }}">
-      <div class="col-xs-12 col-sm-6 col-md-4">
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-              {{ project.title }}
+    {% for project in site.projects %}
+      <div class="column portfolio-card">
+        <div class="content">
+          <div class="card-thumbnail">
+            {% if project.thumbnail %}
+            <img src="{{ project.thumbnail }}" alt="project-thumbnail">
+            {% else %}
+            <img src="/assets/images/project-thumb.png" alt="project-thumbnail">
+            {% endif %}
+          </div>
+          <div class="card-text">
+            <a href="{{ project.url | prepend: site.baseurl }}">
+              <h3>{{ project.title }}</h3>
+            </a>
+            <p>{{ project.categories }}</p>
           </div>
         </div>
       </div>
-    </a>
+        <!-- <div class="col-xs-12 col-sm-6 col-md-4">
+          <div class="panel panel-primary">
+            <div class="panel-heading">
+                {{ project.title }}
+            </div>
+          </div>
+        </div> -->
 
-  {% endfor %}
+    {% endfor %}
 
+  </div>
+  
 </div>
+
 
 <!-- <script src="{{ "/assets/scripts/vendor/scrollreveal.min.js" | prepend: site.baseurl }}"></script>
   <script src="{{ "/assets/scripts/home.js" | prepend: site.baseurl }}"></script> -->
