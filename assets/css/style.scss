@@ -18,8 +18,25 @@
   padding: 0;
 }
 
+.portfolio-card .content .card-text {
+  vertical-align: middle;
+  text-align: center;
+}
+
 .card-thumbnail {
+  /*width: 100%;*/
+  display: inline-block;
+  position: relative;
+  min-width: 200px;
+  min-height: 200px;
+}
+
+.card-thumbnail img {
+  max-width: 100%;
+  vertical-align: middle;
+  border-style: none;
   width: 100%;
+  height: auto;
 }
 
 .row {
