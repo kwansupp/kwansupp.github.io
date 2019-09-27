@@ -1,11 +1,11 @@
 ---
 layout: project
-title:  "Project item"
-date:   2019-08-19 17:38:14 +0200
-categories: test
-thumbnail: /assets/images/thumb-project.png
+title:  "Real-Time Inertial Sensor-Driven Biofeedback on Foot Progression Angle"
+date:   2017-06-18
+categories: 'motion-capture'
+thumbnail: /assets/images/thesis-exp-demo.gif
 caption: "test caption"
-type: "Test Project"
+type: "Bachelor Thesis Assignment"
 intro: "introduction to project short."
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
