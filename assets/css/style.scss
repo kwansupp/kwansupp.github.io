@@ -1,21 +1,14 @@
 ---
 ---
+$content-width: 80%;
 
 @import "{{ site.theme }}";
-
-.test {
-	color: blue;
-	background-color: black;
-}
 
 /*PORTFOLIO LAYOUT*/
 .portfolio-wrapper {
   width: 100%;
-}
-
-.portfolio-card {
-  width: 100%;
-  padding: 0;
+  max-width: 1425px;
+  margin: 0 auto;
 }
 
 .portfolio-card .content .card-text {
@@ -23,12 +16,23 @@
   text-align: center;
 }
 
+.portfolio-card {
+  height: auto;
+  flex-basis: 20%;
+  -ms-flex: auto;
+  width: 300px;
+  position: relative;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
 .card-thumbnail {
-  /*width: 100%;*/
   display: inline-block;
   position: relative;
   min-width: 200px;
+  max-width: 300px;
   min-height: 200px;
+  background-color: gray;
 }
 
 .card-thumbnail img {
@@ -37,6 +41,36 @@
   border-style: none;
   width: 100%;
   height: auto;
+}
+
+.grid-row {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+@media(max-width: 1333px) {
+  .portfolio-card {
+    flex-basis: 33.33%;
+  }
+}
+
+@media(max-width: 1073px) {
+  .portfolio-card {
+    flex-basis: 33.33%;
+  }
+}
+
+@media(max-width: 815px) {
+  .portfolio-card {
+    flex-basis: 50%;
+  }
+}
+
+@media(max-width: 555px) {
+  .portfolio-card {
+    flex-basis: 100%;
+  }
 }
 
 .row {

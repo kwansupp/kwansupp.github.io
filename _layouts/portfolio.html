@@ -1,18 +1,21 @@
 ---
 layout: default
 ---
+
+{%- if page.title -%}
+  <h1 class="page-heading">{{ page.title }}</h1>
+{%- endif -%} 
+
+{{ content }}
+
 <div class="portfolio-wrapper">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%} 
+  
 
-  {{ content }}
-
-  <div class="row">
+  <div class="grid-row">
 
     {% for project in site.projects %}
     <a href="{{ project.url | prepend: site.baseurl }}">
-      <div class="column portfolio-card">
+      <div class="col portfolio-card">
         <div class="content">
           <div class="card-thumbnail">
             {% if project.thumbnail %}
@@ -30,13 +33,6 @@ layout: default
         </div>
       </div>
     </a>
-        <!-- <div class="col-xs-12 col-sm-6 col-md-4">
-          <div class="panel panel-primary">
-            <div class="panel-heading">
-                {{ project.title }}
-            </div>
-          </div>
-        </div> -->
 
     {% endfor %}
 
