@@ -4,6 +4,17 @@ $content-width: 80%;
 
 @import "{{ site.theme }}";
 
+/* HEADER & NAVIGATION */
+.site-title:hover {
+  text-decoration: none;
+}
+
+.site-nav .page-link:hover {
+  text-decoration: none;
+  color: #5AB9EA;
+}
+
+
 /*PORTFOLIO LAYOUT*/
 .portfolio-wrapper {
   width: 100%;
@@ -24,24 +35,6 @@ $content-width: 80%;
   position: relative;
   padding: 10px;
   box-sizing: border-box;
-}
-
-.card-thumbnail {
-  display: inline-block;
-  position: relative;
-  min-width: 200px;
-  max-width: 300px;
-  min-height: 200px;
-  background-color: gray;
-}
-
-.card-thumbnail img {
-  /*max-width: 100%;*/
-/*  vertical-align: middle;
-  border-style: none;*/
-  width: 100%;
-  height: 200px;
-  object-fit: cover;
 }
 
 .grid-row {
@@ -74,48 +67,36 @@ $content-width: 80%;
   }
 }
 
-.row {
+/* PORTFOLIO ITEM CONTENTS */
+
+.card-thumbnail {
+  display: inline-block;
+  position: relative;
+  min-width: 200px;
+  max-width: 300px;
+  min-height: 200px;
+  background-color: gray;
+}
+
+.card-thumbnail img {
   width: 100%;
-  /*margin: 8px -16px;*/
+  height: 200px;
+  object-fit: cover;
 }
 
-/* Add padding BETWEEN each column (if you want) */
-.row,
-.row > .column {
-  padding: 2px;
-}
-
-/* Create four equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 32%;
-}
-
-/* Clear floats after rows */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Content */
 .content {
   background-color: white;
   padding: 10px;
+  text-decoration: none;
 }
 
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 900px) {
-  .column {
-    width: 50%;
-  }
+.grid-row a {
+  color: #3d3d3d;
+  text-decoration: none;
 }
 
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
+.grid-row a:hover {
+  color: #5AB9EA;
 }
 
 
