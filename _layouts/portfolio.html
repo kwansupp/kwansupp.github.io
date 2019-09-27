@@ -13,7 +13,7 @@ layout: default
 
   <div class="grid-row">
 
-    {% for project in site.projects %}
+    {% for project in site.projects reversed %}
     <a href="{{ project.url | prepend: site.baseurl }}">
       <div class="col portfolio-card">
         <div class="content">
