@@ -29,6 +29,7 @@ theme: minima
 #theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
+  - jemoji
 header_pages:
   - pages/about.md
   - pages/projects.md
