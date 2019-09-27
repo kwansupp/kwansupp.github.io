@@ -22,8 +22,12 @@ $content-width: 80%;
   margin: 0 auto;
 }
 
-.portfolio-card .content .card-text {
+.portfolio-card .content {
   vertical-align: middle;
+  text-align: center;
+}
+
+.portfolio-card .content .card-text {
   text-align: center;
 }
 
