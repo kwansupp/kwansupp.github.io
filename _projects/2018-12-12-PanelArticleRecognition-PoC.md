@@ -8,7 +8,12 @@ thumbnail: /assets/images/cv.gif
 type: "Pilot R&D Project @ Modderkolk"
 ---
 # Workload & Duration
-
+Timeline:
+- June-August 2018: Learning & Defining project
+- September-October: Exploratory Data Analysis
+- November-December: Proof of Concept Development
 
 # Tech stack
-
+Exploratory analysis: Python - pandas, scikit-learn
+Software PoC: OpenCV, Python, Tensorflow, Keras
+Serving: Python Flask
