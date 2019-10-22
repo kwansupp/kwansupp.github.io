@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Journal
-permalink: /journal/
+title: Blog
+permalink: /blog/
 ---
 
 Original essays, prose, and poetry. 
