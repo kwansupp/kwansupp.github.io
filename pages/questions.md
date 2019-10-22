@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: list-questions
 title: Questions
 permalink: /questions/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: list-books
 title: Books
 permalink: /books/
 ---
