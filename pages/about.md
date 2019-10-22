@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+{% include about_header.html %}
+
 Hi! I'm Kwan. I'm currently working as a software engineer in the Netherlands.
 
 I have a broad background, having done a Bachelor of Science in Technology and Liberal Arts & Sciences at the University of Twente (University College). During my bachelor studies, I did my focus towards Biomedical Engineering and did a minor in BioRobotics. I also spent some time exploring graphics design and followed a sketching course for industrial design students. I've applied some of my design skills in creating a cookbook!
@@ -17,3 +19,5 @@ I live my life on a search for truth.
 # Journey
 
 My journey so far...
+
+{% include about_journey.html %}
