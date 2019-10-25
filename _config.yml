@@ -43,9 +43,12 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
-  notes:
+  books:
     output: true
-    permalink: /notes/:name/
+    permalink: /books/:name/
+  questions:
+    output: true
+    permalink: /questions/:name/
 
 # defaults for collections
 # defaults:
