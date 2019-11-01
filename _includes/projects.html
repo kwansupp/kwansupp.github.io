@@ -1,0 +1,28 @@
+<div class="portfolio-wrapper">
+  <div class="grid-row">
+
+    {% for project in site.projects reversed %}
+    <a href="{{ project.url | prepend: site.baseurl }}">
+      <div class="col portfolio-card">
+        <div class="content">
+          <div class="card-thumbnail">
+            {% if project.thumbnail %}
+            <img src="{{ project.thumbnail }}" alt="project-thumbnail">
+            {% else %}
+            <img src="/assets/images/project-stock.jpg" alt="project-thumbnail">
+            {% endif %}
+          </div>
+          <div class="card-text">
+            
+            <h3>{{ project.title }}</h3>
+            
+            <p class="card-tags">{{ project.categories }}</p>
+          </div>
+        </div>
+      </div>
+    </a>
+
+    {% endfor %}
+
+  </div>
+</div>

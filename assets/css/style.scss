@@ -1,10 +1,14 @@
 ---
 ---
-$content-width: 50%;
+/*$content-width: 50%;*/
 
 @import "{{ site.theme }}";
 
-/* HEADER & NAVIGATION */
+:root {
+  --menu-width: 150px;
+}
+
+/* ===  HEADER & NAVIGATION ========================================= */
 .site-title:hover {
   text-decoration: none;
 }
@@ -14,12 +18,79 @@ $content-width: 50%;
   color: #5AB9EA;
 }
 
+/* MENU */
+.site-title {
+  float: right;
+}
 
-/*PORTFOLIO LAYOUT*/
+#menu {
+  top: 0;
+  margin: 0;
+  float: right;
+  text-align: right;
+  padding-top: 20px;
+  padding-right: 30px;
+  width: var(--menu-width);
+}
+
+#menu ul {
+  list-style-type: none;
+}
+
+#menu a:hover {
+  text-decoration: none;
+}
+
+/* === CONTENT LAYOUT =================================================*/
+
+.page-content {
+  margin: 0;
+  padding-top: 25px;
+  float: left;
+  width: calc(100% - (var(--menu-width)*1.5));
+  text-align: justify;
+}
+
+@media(max-width: 1024px) {
+  .page-content {
+    width: 100%;
+    padding-top: 0;
+  }
+}
+
+/* === LANDING PAGE ==================================================*/
+
+#landing {
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  background-color: blue;
+  width: 100%;
+  z-index: -1;
+
+}
+
+
+/* === PORTFOLIO LAYOUT ==============================================*/
+.grid-wrapper {
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
 .portfolio-wrapper {
   width: 100%;
   max-width: 1425px;
   margin: 0 auto;
+  margin-top: 25px;
+  transform: translate(calc((var(--menu-width)*1.5)/2));
+}
+
+@media(max-width: 1024px) {
+  .portfolio-wrapper {
+    margin: 0 auto;
+  }
 }
 
 .portfolio-card .content {
