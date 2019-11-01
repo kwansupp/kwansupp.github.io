@@ -100,7 +100,7 @@
 @media(max-width: 1024px) {
   #landing {
     min-height: 0;
-    /*transform: translate(calc((var(--menu-width)*-1.5)/2));*/
+    transform: translate(0,0);
   }
 }
 
@@ -123,6 +123,7 @@
 @media(max-width: 1024px) {
   .extended-wrapper {
     margin: 0 auto;
+    transform: translate(0,0);
   }
 }
 

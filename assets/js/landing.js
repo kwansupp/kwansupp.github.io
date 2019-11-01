@@ -1,5 +1,6 @@
 console.log("connected");
 
+// canvas animation
 const canvas = document.getElementById('landing-canvas');
 const ctx = canvas.getContext('2d');
 
@@ -49,4 +50,3 @@ function animate() {
 }
 
 animate();
-
