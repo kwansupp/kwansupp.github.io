@@ -6,3 +6,5 @@ layout: home
 ---
 
 {% include landing.html %}
+
+{% include projects.html %}
