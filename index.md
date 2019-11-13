@@ -4,8 +4,7 @@
 
 layout: home
 ---
-# Home page
-Check home page
+
 {% include landing.html %}
 
 {% include projects.html %}
