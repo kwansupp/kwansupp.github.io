@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+# About
 {% include about_header.html %}
 
 Hi! I'm Kwan. I'm currently working as a software engineer in the Netherlands.
