@@ -43,6 +43,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
+  studies:
+    output: true
+    permalink: /projects/studies/:name/
   books:
     output: true
     permalink: /books/:name/

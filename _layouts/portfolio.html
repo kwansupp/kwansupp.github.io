@@ -6,10 +6,20 @@ layout: home
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%} 
   
-  {{ content }}
+<!--   {{ content }} -->
 </div>
 
 {%- include projects.html -%}
+
+<div class="wrapper">
+	<h1 class="page-heading">Studies</h1>
+
+	{%- include studies.html -%}
+</div>
+
+
+
+
 
 
 <!-- <script src="{{ "/assets/scripts/vendor/scrollreveal.min.js" | prepend: site.baseurl }}"></script>
