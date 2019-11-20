@@ -1,0 +1,29 @@
+{%- if site.sketches.size > 0 -%}
+  <div class="extended-wrapper">
+    <div class="grid-row">
+
+      {% for sketch in site.sketches reversed %}
+      <a href="{{ sketch.url | prepend: site.baseurl }}">
+        <div class="col portfolio-card">
+          <div class="content">
+            <div class="card-thumbnail">
+              {% if sketch.thumbnail %}
+              <img src="{{ sketch.thumbnail }}" alt="sketch-thumbnail">
+              {% else %}
+              <img src="/assets/images/projects/project-stock.jpg" alt="sketch-thumbnail">
+              {% endif %}
+            </div>
+            <div class="card-text">
+              
+              <h3>{{ sketch.title }}</h3>
+              
+            </div>
+          </div>
+        </div>
+      </a>
+
+      {% endfor %}
+
+    </div>
+  </div>
+{%- endif -%}

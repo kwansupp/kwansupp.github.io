@@ -32,7 +32,7 @@ plugins:
   - jemoji
 header_pages:
   - pages/about.md
-  - pages/projects.md
+  - pages/portfolio.md
   - pages/blog.md
   - pages/books.md
   - pages/questions.md
@@ -42,10 +42,13 @@ header_pages:
 collections:
   projects:
     output: true
-    permalink: /projects/:name/
+    permalink: /portfolio/projects/:name/
   studies:
     output: true
-    permalink: /projects/studies/:name/
+    permalink: /portfolio/studies/:name/
+  sketches:
+    output: true
+    permalink: /portfolio/sketches/:name/
   books:
     output: true
     permalink: /books/:name/

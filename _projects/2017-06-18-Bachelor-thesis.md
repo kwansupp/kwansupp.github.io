@@ -4,9 +4,10 @@ title:  "Bachelor Thesis Assignment"
 subtitle: "Real-Time Inertial Sensor-Driven Biofeedback on Foot Progression Angle"
 date:   2017-06-18
 categories: motion-capture, signal-processing
-thumbnail: /assets/images/thesis-exp-demo.gif
+thumbnail: /assets/images/projects/thesis-exp-demo.gif
 type: "Design & Research Project"
 ---
+
 # Workload & Duration
 20 EC Project
 

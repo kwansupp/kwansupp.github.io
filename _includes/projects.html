@@ -1,3 +1,4 @@
+{%- if site.projects.size > 0 -%}
 <div class="extended-wrapper">
   <div class="grid-row">
 
@@ -9,7 +10,7 @@
             {% if project.thumbnail %}
             <img src="{{ project.thumbnail }}" alt="project-thumbnail">
             {% else %}
-            <img src="/assets/images/project-stock.jpg" alt="project-thumbnail">
+            <img src="/assets/images/projects/project-stock.jpg" alt="project-thumbnail">
             {% endif %}
           </div>
           <div class="card-text">
@@ -26,3 +27,4 @@
 
   </div>
 </div>
+{%- endif -%}
