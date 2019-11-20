@@ -116,7 +116,8 @@ $background-color: white;
 
 .extended-wrapper {
   width: 100%;
-  max-width: 1425px;
+  /*max-width: 1425px;*/
+  max-width: 1000px;
   margin: 0 auto;
   margin-top: 25px;
   transform: translate(calc((var(--menu-width)*1.5)/2));
