@@ -16,8 +16,13 @@
           <div class="card-text">
             
             <h3>{{ project.title }}</h3>
-            
-            <p class="card-tags">{{ project.categories }}</p>
+            {% if project.categories.size > 0 -%}
+              <p class="card-tags">
+                {% for tag in project.categories %}
+                <span class="category-tag">{{tag}}</span>
+                {% endfor %}
+              </p>
+            {%- endif -%}
           </div>
         </div>
       </div>
