@@ -3,9 +3,9 @@
   <div class="grid-row">
 
     {% for project in site.projects reversed %}
-    <a href="{{ project.url | prepend: site.baseurl }}">
       <div class="col portfolio-card">
         <div class="content">
+          <a href="{{ project.url | prepend: site.baseurl }}">
           <div class="card-thumbnail">
             {% if project.thumbnail %}
             <img src="{{ project.thumbnail }}" alt="project-thumbnail">
@@ -24,9 +24,10 @@
               </p>
             {%- endif -%}
           </div>
+          </a>
         </div>
       </div>
-    </a>
+    
 
     {% endfor %}
 
