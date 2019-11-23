@@ -16,7 +16,8 @@ Curiosity, Creativity, Community.
 
 **Finding the dots and connecting them.**
 
-> “To stay eager, to connect, to find interest in the everyday, to notice what everybody else overlooks — these are vital skills and noble goals. They speak between looking and seeing, between hearing and listening, between accepting what the world presents and noticing what matters to you.” - Rob Walker, The Art of Noticing 
+> “To stay eager, to connect, to find interest in the everyday, to notice what everybody else overlooks — these are vital skills and noble goals. They speak between looking and seeing, between hearing and listening, between accepting what the world presents and noticing what matters to you.”  
+> <p align="right">- Rob Walker, The Art of Noticing</p>
 
 The pursuit of truth is what keeps me curious. I strive to understand the world and the workings of our society. Truth comes in multiple forms - empirical, historical, emotional, theoretical. Truths combine to form new truths. Every being to each their own. Studying various disciplines, observing nature, appreciating art, talking to strangers — curiosity allows me to explore and find the dots which are the points of truth. 
 
