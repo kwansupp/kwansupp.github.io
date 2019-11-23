@@ -7,4 +7,15 @@ categories: [microfabrication, 3D printing, lab on a chip]
 thumbnail: /assets/images/projects/labonachip-design.PNG
 type: "Research, Design, Develop"
 ---
-# Design & Microfabrication of Parasite Tester
+
+## Overview
+
+Motivation
+
+Discoveries
+
+### Role
+This project was completed in a group of 4.
+Within this project, I was mainly involved in setting up the 
+
+
