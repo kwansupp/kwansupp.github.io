@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "S3 Project: Monitoring Health in Extraterresterial Settings"
+title:  "Semester Project: Monitoring Health in Extraterresterial Settings"
 date:   2016-01-06
 categories: sensors health-tech research biosignals
 ---

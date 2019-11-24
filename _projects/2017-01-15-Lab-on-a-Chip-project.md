@@ -14,7 +14,7 @@ Motivation
 
 Discoveries
 
-### Role
+## Role
 This project was completed in a group of 4.
 Within this project, I was mainly involved in setting up the 
 

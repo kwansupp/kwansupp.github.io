@@ -1,11 +1,11 @@
 ---
 layout: project
 title:  "Object Recognition of Electrical Components in Control Panels"
-subtitle: "Proof of Concept"
-date:   2018-12-12
-categories: [computer vision, deep learning]
+subtitle: "Proof of Concepts"
+date:   2019-08-30
+categories: [computer vision, deep learning, business development]
 thumbnail: /assets/images/projects/cv.gif
-type: "Pilot R&D Project @ Modderkolk"
+type: "Pilot R&D Project @ Modderkolk x New Engineers"
 ---
 # Workload & Duration
 Timeline:
