@@ -7,6 +7,7 @@ categories: [computer vision, deep learning, business development]
 thumbnail: /assets/images/projects/cv.gif
 type: "Pilot R&D Project @ Modderkolk x New Engineers"
 ---
+
 # Workload & Duration
 Timeline:
 - June-August 2018: Learning & Defining project
