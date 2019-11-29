@@ -1,16 +1,13 @@
 ---
 layout: project
 title:  "EMG-Controlled Burger-Flipping Robot"
-subtitle: "BioRobotics Project"
 date:   2016-11-15 16:21:34 +0200
 permalink: /projects/:name
 categories: [robotics, signal processing, EMG]
 thumbnail: /assets/images/projects/biorobotics-solidwork.png
 type: "Ideate, Design, Develop"
+organization: "BioRobotics module, University of Twente"
 ---
-
-<a href='/assets/docs/BioRobotics-DesignImplementationReport.pdf' target="_blank">[design & implementation report]</a>
-
 
 ## Overview
 
@@ -37,7 +34,7 @@ To be able to use the signals from the biceps activations, we applied signal pro
 
 The control of the motors and the EMG filtering were combined in a program written in C++. 
 
-An in-depth report on the steps taken throughout the project can be found in the Design & Implementation Report linked at the top of this page.
+An in-depth report on the steps taken throughout the project can be found in the Design & Implementation Report (link below in Further Reading).
 
 <br/>
 
@@ -48,7 +45,8 @@ Robot in action, controlled through bicep activations. 1 & 2 - Picking up burger
 </p>
 
 
-### Role
+
+## Role
 This project was completed in a group of 4 people over the course of a quartile (September - November 2016). My roles within the project varied throughout the different phases. 
 
 In the beginning I was involved in the systems design, helping the group to come up with the requirements and specifications. After having generated our concepts, I was in charge of the concept visualizations, clearly communicating our ideas through sketches.
@@ -58,8 +56,13 @@ In the design phase, I designed some of the components for our final design in S
 After having built and evaluated the robot, I was responsible for presenting our product demo.
 
 
-### Tech Stack
+## Tech Stack
  - FRDM-K64F development boards (C++)
  - EMG sensors
  - SolidWorks
  - MatLab Simulink
+
+
+## Further Reading
+
+<a href='/assets/docs/BioRobotics-DesignImplementationReport.pdf' target="_blank">[design & implementation report]</a>

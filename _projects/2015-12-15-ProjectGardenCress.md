@@ -1,15 +1,13 @@
 ---
 layout: project
 title:  "Project Garden Cress"
-subtitle: "Empirical Evidence in Engineering Project"
 date:   2015-12-15 16:21:34 +0200
 permalink: /projects/:name
 categories: [raspberry pi, computer vision, sensors, electronics, analytics]
 thumbnail: /assets/images/projects/gardencress.gif
 type: "Ideate, Design, Develop"
+organization: "Empirical Evidence in Engineering Course, University College Twente"
 ---
-
-<a href="http://projectgardencress.blogspot.com/p/project-garden-cress.html" target="_blank">[website]</a>
 
 ## Overview
 
@@ -36,7 +34,7 @@ Image processing to analyze plant growth (through pixel count).
 
 <!-- <br/> -->
 
-For more detailed descriptions of the project process, visit the documentation website (link above). Unfortunately, some of the images are no longer working properly, most likely due to hosting issues on Blogger.
+For more detailed descriptions of the project process, visit the documentation website (link below in Further Reading). Unfortunately, some of the images are no longer working properly, most likely due to hosting issues on Blogger.
 
 <!-- <br/> -->
 
@@ -53,4 +51,6 @@ This project was done in a group of 4 people. Apart from being actively involved
  - OpenCV
 
 
+## Further Reading
 
+<a href="http://projectgardencress.blogspot.com/p/project-garden-cress.html" target="_blank">[website]</a>

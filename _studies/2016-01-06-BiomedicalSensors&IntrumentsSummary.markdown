@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: project
 title:  "Semester Project: Monitoring Health in Extraterresterial Settings"
 date:   2016-01-06
-categories: sensors health-tech research biosignals
+permalink: /studies/:name
+categories: [sensors, health tech, research biosignals]
 ---
 
 A project that explores a hypothetical future in which humans colonize Mars. 

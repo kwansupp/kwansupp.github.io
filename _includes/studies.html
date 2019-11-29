@@ -3,7 +3,7 @@
   <ul class="post-list">
     {%- for study in site.studies reversed -%}
     <li>
-        <a href="{{ post.url | relative_url }}">
+        <a href="{{ study.url | relative_url }}">
           {{ study.title | escape }}
         </a>
       {%- assign date_format = site.minima.date_format | default: "%B %Y" -%}

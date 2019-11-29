@@ -53,6 +53,10 @@ $background-color: white;
   text-align: justify;
 }
 
+.page-content .post-title {
+  text-align: left;
+}
+
 @media(max-width: 1024px) {
   .page-content {
     width: 100%;
