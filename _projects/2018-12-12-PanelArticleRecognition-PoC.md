@@ -62,7 +62,7 @@ Overall, within the period of a year (September 2018 - August 2019), I achieved 
 
 For more details on the project and a reflection of my year, check the *Further Reading* section below.
 
-
+<br/>
 
 ## Tech stack
 Exploratory analysis: 
@@ -78,6 +78,7 @@ Proof of concept:
  - Raspberry Pi (TCP/IP image transfer)
  - Flask (serving REST API)
 
+<br/>
 
 ## Further Reading
 

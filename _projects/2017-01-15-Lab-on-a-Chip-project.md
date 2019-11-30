@@ -22,7 +22,7 @@ The chips need to be able to filter a solution of horse faeces to find parasite 
 
 We evaluated our chip designs on its performance in separating microbeads of various sizes (comparable to that of various parasite eggs that may be found in horses). We also tested its performance in counting the concentration of the microbeads. 
 
-For detailed information, check out the documents under Further Resources.
+For detailed information, check out the documents under _Further Reading_.
 
 <p align="center">
 <img src="/assets/images/projects/LOC-all_clewin_designs.PNG" alt="2D Model of chips" title="2D Models of Chip" width="1000px" />
@@ -75,5 +75,5 @@ Schema and actual setup of photoresistor for detecting the concentration of bead
 
 <a href='/assets/docs/Endoparasite_Home_Test.pdf' target="_blank">[Final Report]</a>
 
-### Abstract
+**Abstract**  
 This paper provides a background for the design of a microfluidic chip for creating a endoparasite home-testing device for horses. In the paper an experimental set-up and method is introduced for testing the performance of pinched flow fractionation (PFF) for separation and photoresistors for optical detection. The PFF is used for separating beads (comparable to parasite eggs) and is tested at different flow rate ratios and multiple images are taken for analysis. The photoresistors are tested to see the viability in measuring the concentration of beads in a solution (severity of parasitic infection). The results from these tests are discussed within this paper. Further recommendations for future research and applications are also provided.

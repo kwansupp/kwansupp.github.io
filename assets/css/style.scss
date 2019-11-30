@@ -245,9 +245,14 @@ $background-color: white;
 
 .PageNavigation a {
   display: block;
-  width: 50%;
+  width: 33.3%;
   float: left;
   margin: 1em 0;
+  text-align: left;
+}
+
+.PageNavigation .back-to-main {
+  text-align: center;
 }
 
 .PageNavigation .next {

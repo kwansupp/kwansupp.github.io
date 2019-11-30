@@ -21,7 +21,7 @@ We designed a system to monitor plant growth, more specifically watercress. The 
 <br/>
 Timelapse of plant growth (in around 25 hours)
 </p>
-<!-- <br/> -->
+<br/>
 
 One of the challenges in our design was in acquiring image data, which we wanted to use to track the amount of growth. This is done by tracking the amount of "green" over time. As there was a lot of background noise, we decided to control the environment by adding a static background (red to contrast plant color).
 
@@ -32,16 +32,16 @@ One of the challenges in our design was in acquiring image data, which we wanted
 Image processing to analyze plant growth (through pixel count).
 </p>
 
-<!-- <br/> -->
+<br/>
 
-For more detailed descriptions of the project process, visit the documentation website (link below in Further Reading). Unfortunately, some of the images are no longer working properly, most likely due to hosting issues on Blogger.
+For more detailed descriptions of the project process, visit the documentation website (link below in _Further Reading_). Unfortunately, some of the images are no longer working properly, most likely due to hosting issues on Blogger.
 
-<!-- <br/> -->
+<br/>
 
 ## Role
 This project was done in a group of 4 people. Apart from being actively involved in the setups of the various sensors, my focus was on analyzing the light acquisition and tackling the challenges in image acquisition.
 
-<!-- <br/> -->
+<br/>
 
 ## Tech Stack
  - Raspberry Pi
@@ -50,6 +50,7 @@ This project was done in a group of 4 people. Apart from being actively involved
  - Python
  - OpenCV
 
+<br/>
 
 ## Further Reading
 

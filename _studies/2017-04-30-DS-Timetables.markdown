@@ -8,4 +8,9 @@ type: ""
 organization: "Data Science course, University of Twente"
 ---
 
-Part of Data Science course at the University of Twente.
+Using timetable data of university courses (course size, datetimes, and location), we investigated and visualized the traffic flow of people between buildings and common areas. The tools we used in this study are Pentaho Kettle, QGis, and Tableau.
+
+<a href='/assets/docs/Group6_3TimetablesFinalPaper.pdf' target="_blank">[Paper]</a>
+
+<object width="750" height="500" data="/assets/docs/Group6_3TimetablesFinalPaper.pdf" type="application/pdf"><iframe src="/assets/docs/Group6_3TimetablesFinalPaper.pdf"></iframe>
+</object>

@@ -34,7 +34,7 @@ To be able to use the signals from the biceps activations, we applied signal pro
 
 The control of the motors and the EMG filtering were combined in a program written in C++. 
 
-An in-depth report on the steps taken throughout the project can be found in the Design & Implementation Report (link below in Further Reading).
+An in-depth report on the steps taken throughout the project can be found in the Design & Implementation Report (link below in _Further Reading_).
 
 <br/>
 
@@ -44,7 +44,7 @@ An in-depth report on the steps taken throughout the project can be found in the
 Robot in action, controlled through bicep activations. 1 & 2 - Picking up burger "patty" with spatula. 3 - Elevated edges (white) on spatula, aids in flipping the patty.
 </p>
 
-
+<br/>
 
 ## Role
 This project was completed in a group of 4 people over the course of a quartile (September - November 2016). My roles within the project varied throughout the different phases. 
@@ -55,6 +55,7 @@ In the design phase, I designed some of the components for our final design in S
 
 After having built and evaluated the robot, I was responsible for presenting our product demo.
 
+<br/>
 
 ## Tech Stack
  - FRDM-K64F development boards (C++)
@@ -62,6 +63,7 @@ After having built and evaluated the robot, I was responsible for presenting our
  - SolidWorks
  - MatLab Simulink
 
+<br/>
 
 ## Further Reading
 
