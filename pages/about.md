@@ -8,7 +8,7 @@ permalink: /about/
 
 I'm currently working as a software engineer in the Netherlands, doing R&D on innovative data solutions for process improvements. Before this, I've had some experience in web development and event organization & management.
 
-I have a broad background, having done a Bachelor of Science in Technology and Liberal Arts & Sciences at the University of Twente (University College). During my bachelor studies, I did my focus towards Biomedical Engineering and did a minor in BioRobotics. I also spent some time exploring graphics design and followed a sketching course for industrial design students. I've applied some of my design skills to create a cookbook!
+I have a broad interdisciplinary background, having done a Bachelor of Science in Technology and Liberal Arts & Sciences at the University of Twente (University College). During my studies, I did my focus towards Biomedical Engineering and followed a minor in BioRobotics. I also spent some time exploring graphics design and followed a sketching course for industrial design students.
 
 # My Philosophy
 
@@ -36,7 +36,7 @@ Everytime I reflect on my life, I consider myself lucky. Lucky to have good heal
 
 In my free time I enjoy various sports and am a competitive soccer player. I play the alto saxophone and am learning the guitar. 
 
-I also enjoy reading various sorts of books. Lately, I've been reading a lot of philosophy and memoir, but I like to switch things up every now and then. I love classical literature and novels. I believe reading opens worlds and I try to read various sorts of books to be able to understand the different worlds, which I hope gives me a better understanding of people.
+I also enjoy reading various sorts of books. Check out my [reading list](/books)! Lately, I've been reading a lot of philosophy and memoir, but I like to switch things up every now and then. I love classical literature and novels. I believe reading opens worlds and I try to read various sorts of books to be able to understand the different worlds, which I hope gives me a better understanding of people.
 
 <!-- # Journey
 
