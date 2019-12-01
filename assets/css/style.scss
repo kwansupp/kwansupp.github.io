@@ -300,3 +300,32 @@ $background-color: white;
 .PageNavigation .next {
   text-align: right;
 }
+
+
+/* === FOOTER ==================================================*/
+/*footer {
+  clear: both;
+  position: relative;
+  margin: 200px;
+  margin-top: -200px;
+}*/
+
+body {
+  position: relative;
+}
+
+footer div {
+  color: gray;
+  float: center;
+}
+
+.site-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 15px 0;
+}
+
+.page-content {
+  padding-bottom: 150px;
+}
