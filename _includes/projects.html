@@ -1,5 +1,5 @@
-{%- if site.projects.size > 0 -%}
 <div class="extended-wrapper">
+  {%- if site.projects.size > 0 -%}
   <div class="grid-row">
 
     {% for project in site.projects reversed %}
@@ -32,5 +32,5 @@
     {% endfor %}
 
   </div>
+  {%- endif -%}
 </div>
-{%- endif -%}
