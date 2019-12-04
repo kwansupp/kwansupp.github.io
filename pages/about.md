@@ -6,9 +6,9 @@ permalink: /about/
 
 {% include about_header.html %}
 
-I'm currently working as a software engineer in the Netherlands, doing R&D on innovative data solutions for process improvements. Before this, I've had some experience in web development and event organization & management.
+I like to call myself an interdisciplinary engineer. I have a broad background, having completed a Bachelor of Science in Technology and Liberal Arts & Sciences from the University of Twente. During my studies, I did my focus towards Biomedical Engineering and followed a minor in BioRobotics. I also spent some time exploring graphics design and followed a sketching course for industrial design students.
 
-I have a broad interdisciplinary background, having done a Bachelor of Science in Technology and Liberal Arts & Sciences at the University of Twente (University College). During my studies, I did my focus towards Biomedical Engineering and followed a minor in BioRobotics. I also spent some time exploring graphics design and followed a sketching course for industrial design students.
+Now I am working as a software engineer in the Netherlands, doing R&D on innovative data solutions for process improvements. Before this, I've had some experience in web development and event organization & management.
 
 # My Philosophy
 
@@ -29,7 +29,7 @@ I believe that it is in our nature to create. It is an expression of self and in
 
 **Inspiring and lifting people up.**
 
-Everytime I reflect on my life, I consider myself lucky. Lucky to have good health. I want to use my knowledge and skills to help people live better lives - to be kind (to themselves and others), to live authentically and to unlock their full potential (in achieving their dreams and contribute to the world).
+When I reflect on my life, I consider myself lucky. Lucky to have good health; lucky to have the resilience to overcome challenges. I want to use my knowledge and skills to help people live better lives - to be kind (to themselves and others), to live authentically, and to unlock their full potential (in order achieving their dreams and to contribute to the world).
 
 
 # Other things about me
