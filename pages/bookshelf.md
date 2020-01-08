@@ -1,7 +1,7 @@
 ---
 layout: blank
-title: Books
-permalink: /books/
+title: Bookshelf
+permalink: /bookshelf/
 ---
 
 This section is a list of the various books I consume, with my most recent reads at the top. I enjoy reading a variety of books. Most of what I read are in English, but every now and then I also read books in Thai or Dutch. I've been trying to write more about what I've read, so keep an eye out for links popping up below (coming soon). If you have any book recommendations or want to discuss books, I'd love to hear from you. :)
