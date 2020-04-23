@@ -29,14 +29,14 @@ I believe that it is in our nature to create. It is an expression of self and in
 
 **Inspiring and lifting people up.**
 
-When I reflect on my life, I consider myself lucky. Lucky to have good health; lucky to have the resilience to overcome challenges. I want to use my knowledge and skills to help people live better lives - to be kind (to themselves and others), to live authentically, and to unlock their full potential (in order achieving their dreams and to contribute to the world).
+When I reflect on my life, I consider myself lucky. Lucky to have good health; lucky to have the resilience to overcome challenges. I want to use my knowledge and skills to help people live better lives - to be kind (to themselves and others), to live authentically, and to unlock their full potential (in order to achieve their dreams and to contribute to the world).
 
 
 # Other things about me
 
 In my free time I enjoy various sports and am a competitive soccer player. I play the alto saxophone and am learning the guitar. 
 
-I also enjoy reading various sorts of books. Check out my [reading list](/books)! Lately, I've been reading a lot of philosophy and memoir, but I like to switch things up every now and then. I love classical literature and novels. I believe reading opens worlds and I try to read various sorts of books to be able to understand the different worlds, which I hope gives me a better understanding of people.
+I also enjoy reading various sorts of books. Check out my [reading list](/books)! Lately, I've been reading a lot of philosophy and memoir, but I like to switch things up every now and then. I love classical literature and novels. I believe that reading opens worlds. I try to read various sorts of books to be able to understand the different worlds, which I hope gives me a better understanding of people.
 
 <!-- # Journey
 
