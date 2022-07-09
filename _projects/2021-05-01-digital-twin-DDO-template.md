@@ -5,31 +5,39 @@ subtitle: "Create data-driven objects for VR"
 date:   2021-05-01
 permalink: /projects/:name
 categories: [VR, coaching]
-thumbnail: /assets/images/projects/ddo.png
+thumbnail: /assets/images/projects/empower-main.png
 type: "VR Development & Coaching @ Digital Society School"
 ---
 
 ## Overview
 
-A Unity template for data-driven objects that can be used for VR installations. The template takes a csv file as input and creates game objects based on variables and their values.
+A digital platform to enable local municipalities to start and accelerate energy transition initiatives. Read more on <a href="https://digitalsocietyschool.org/project/empower-energy-transition/" target="_blank">[project page]</a>.
 
 <br/>
 <p align="center">
-<img src="/assets/images/projects/ddo.png" alt="3D visualization based on data" title="3D visualization based on data" width="800px" />
+<img src="/assets/images/projects/empower-main.png" alt="Screenshot of Empower site" title="Screenshot of empower" width="800px" />
 <br/>
-3D visualization based on data
+Screenshot of landing page
 </p>
 
 <br/>
 <p align="center">
-<img src="/assets/images/projects/ddo-sample-data.png" alt="Sample data" title="Sample data" width="800px" />
+<img src="/assets/images/projects/empower1.png" alt="Screenshot of Empower site" title="Screenshot of empower" width="800px" />
 <br/>
-Sample (health) data that drives the 3D visualization
+Screenshot of toolbox page
+</p>
+
+<br/>
+<p align="center">
+<img src="/assets/images/projects/empower-map.png" alt="Screenshot of Empower site" title="Screenshot of empower" width="800px" />
+<br/>
+Screenshot of map page
 </p>
 
 <br/>
 
 ## Tech Stack
- - Unity 3D
+ - Backend: Node.js, Strapi
+ - Frontend: Angular, HTML, CSS
 
-<!-- <a href="https://github.com/kwansupp/room-bot" target="_blank">[Repo]</a> -->
+<a href="https://github.com/kwansupp/room-bot" target="_blank">[Repo]</a>
