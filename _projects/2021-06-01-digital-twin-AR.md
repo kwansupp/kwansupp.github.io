@@ -11,11 +11,11 @@ type: "AR Prototype"
 
 ## Overview
 
-A digital platform to enable local municipalities to start and accelerate energy transition initiatives. Read more on <a href="https://digitalsocietyschool.org/project/empower-energy-transition/" target="_blank">[project page]</a>.
+ Read more on <a href="https://digitalsocietyschool.org/project/digital-twins-in-practical-education/" target="_blank">[project page]</a>.
 
 <br/>
 <p align="center">
-<img src="/assets/images/projects/DT_AR" alt="Screenshot of Prototype being used in a video call" title="Screenshot of Prototype being used in a video call" width="800px" />
+<img src="/assets/images/projects/DT_AR.jpeg" alt="Screenshot of Prototype being used in a video call" title="Screenshot of Prototype being used in a video call" width="800px" />
 <br/>
 Prototype being used in a video call
 </p>
