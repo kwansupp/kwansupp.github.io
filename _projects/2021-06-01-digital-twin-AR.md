@@ -6,12 +6,14 @@ date:   2021-06-01
 permalink: /projects/:name
 categories: [AR, Lens Studio]
 thumbnail: /assets/images/projects/DT_AR.jpeg
-type: "AR Prototype"
+type: "AR Prototype @ Digital Society School"
 ---
 
 ## Overview
 
  Read more on <a href="https://digitalsocietyschool.org/project/digital-twins-in-practical-education/" target="_blank">[project page]</a>.
+
+<a href="https://youtu.be/pYPeB9wwGU4" target="_blank">[Concept video]</a>
 
 <br/>
 <p align="center">
@@ -21,23 +23,11 @@ Prototype being used in a video call
 </p>
 
 <br/>
-<p align="center">
-<img src="/assets/images/projects/empower1.png" alt="Screenshot of Empower site" title="Screenshot of empower" width="800px" />
-<br/>
-Screenshot of toolbox page
-</p>
-
-<br/>
-<p align="center">
-<img src="/assets/images/projects/empower-map.png" alt="Screenshot of Empower site" title="Screenshot of empower" width="800px" />
-<br/>
-Screenshot of map page
-</p>
-
-<br/>
 
 ## Tech Stack
  - Snap Lens Studio (JavaScript for coding interactions)
  - Snap Camera
 
-<a href="https://github.com/kwansupp/room-bot" target="_blank">[Repo]</a>
+## Role in project
+Involved in concept ideation and implementing prototype.
+
