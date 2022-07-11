@@ -40,4 +40,4 @@ Survey questions, from which the results are then calculated and used to drive t
  - D3.js
  - Angular
 
-<a href="https://github.com/kwansupp/room-bot" target="_blank">[Repo]</a>
+<!-- <a href="https://github.com/kwansupp/room-bot" target="_blank">[Repo]</a> -->
