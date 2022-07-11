@@ -5,7 +5,7 @@ subtitle: "A tool to track learning progress"
 date:   2020-12-01
 permalink: /projects/:name
 categories: [web development]
-thumbnail: /assets/images/projects/empower-main.png
+thumbnail: /assets/images/projects/assessment-tool.gif
 type: "Frontend Development @ Digital Society School"
 ---
 
