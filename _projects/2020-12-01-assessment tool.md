@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Assessment tool"
+title:  "Learning Tracker"
 subtitle: "A tool to track learning progress"
 date:   2020-12-01
 permalink: /projects/:name
