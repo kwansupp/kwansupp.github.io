@@ -4,7 +4,7 @@ title:  "Studio Kaassouffle Site"
 subtitle: "Developed fun website and self-hosted on DigitalOcean"
 date:   2021-12-31
 permalink: /projects/:name
-categories: [web, p5.js, hosting, DNS]
+categories: [web, p5.js, hosting, DNS, concept]
 thumbnail: /assets/images/projects/kaas.png
 type: "Web development & systems administration for Studio Kaassouffle"
 ---
@@ -15,23 +15,9 @@ type: "Web development & systems administration for Studio Kaassouffle"
 
 <br/>
 <p align="center">
-<img src="/assets/images/projects/empower-main.png" alt="Screenshot of Empower site" title="Screenshot of empower" width="800px" />
+<img src="/assets/images/projects/kaassouffle-landing.gif" alt="Screenshot of Empower site" title="Screenshot of empower" width="800px" />
 <br/>
-Screenshot of landing page
-</p>
-
-<br/>
-<p align="center">
-<img src="/assets/images/projects/empower1.png" alt="Screenshot of Empower site" title="Screenshot of empower" width="800px" />
-<br/>
-Screenshot of toolbox page
-</p>
-
-<br/>
-<p align="center">
-<img src="/assets/images/projects/empower-map.png" alt="Screenshot of Empower site" title="Screenshot of empower" width="800px" />
-<br/>
-Screenshot of map page
+Interaction on landing page
 </p>
 
 <br/>
@@ -40,5 +26,8 @@ Screenshot of map page
  - p5.js
  - DigitalOcean (self-hosted)
  - Namecheap (DNS)
+
+## Role in project
+Developed concepts, implemented site, maintained site through self-hosting and setup domain.
 
 <!-- <a href="https://github.com/kwansupp/room-bot" target="_blank">[Repo]</a> -->

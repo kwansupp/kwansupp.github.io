@@ -6,7 +6,7 @@ date:   2021-06-01
 permalink: /projects/:name
 categories: [VR, tech support]
 thumbnail: /assets/images/projects/dt-vr-pitch.jpeg
-type: "VR experiment"
+type: "VR experiment @ Digital Society School"
 ---
 
 ## Overview
