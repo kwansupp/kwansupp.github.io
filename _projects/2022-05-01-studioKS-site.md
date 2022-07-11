@@ -4,7 +4,7 @@ title:  "Studio Kaassouffle Site"
 subtitle: "Developed fun website and self-hosted on DigitalOcean"
 date:   2021-12-31
 permalink: /projects/:name
-categories: [p5.js, hosting, DNS]
+categories: [web, p5.js, hosting, DNS]
 thumbnail: /assets/images/projects/kaas.png
 type: "Web development & systems administration for Studio Kaassouffle"
 ---
