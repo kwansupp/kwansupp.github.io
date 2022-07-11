@@ -18,7 +18,7 @@ Fun landing page for Studio Kaassouffle, a multidisciplinary studio exploring wi
 <p align="center">
 <img src="/assets/images/projects/kaassouffle-landing.gif" alt="Screenshot of Empower site" title="Screenshot of empower" width="800px" />
 <br/>
-Interaction on landing page
+Interaction on landing page — daaaaag! 👋
 </p>
 
 <br/>
