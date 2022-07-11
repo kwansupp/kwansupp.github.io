@@ -10,8 +10,9 @@ type: "Web development & systems administration for Studio Kaassouffle"
 ---
 
 ## Overview
+Fun landing page for Studio Kaassouffle, a multidisciplinary studio exploring wildest shower thoughts.
 
-<!-- A digital platform to enable local municipalities to start and accelerate energy transition initiatives. Read more on <a href="https://digitalsocietyschool.org/project/empower-energy-transition/" target="_blank">[project page]</a>. -->
+<a href="https://kaassouffle.club/" target="_blank">[View site]</a>.
 
 <br/>
 <p align="center">
