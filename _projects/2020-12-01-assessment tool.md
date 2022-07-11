@@ -11,33 +11,33 @@ type: "Frontend Development @ Digital Society School"
 
 ## Overview
 
-A digital platform to enable local municipalities to start and accelerate energy transition initiatives. Read more on <a href="https://digitalsocietyschool.org/project/empower-energy-transition/" target="_blank">[project page]</a>.
+An internal tool for learners to track their learning progress <a href="https://digitalsocietyschool.org/project/empower-energy-transition/" target="_blank">[project page]</a>.
 
 <br/>
 <p align="center">
-<img src="/assets/images/projects/empower-main.png" alt="Screenshot of Empower site" title="Screenshot of empower" width="800px" />
+<img src="/assets/images/projects/assessment-tool.png" alt="Screenshot of Empower site" title="Screenshot of empower" width="800px" />
 <br/>
-Screenshot of landing page
+Screenshot of tool page.
 </p>
 
 <br/>
 <p align="center">
-<img src="/assets/images/projects/empower1.png" alt="Screenshot of Empower site" title="Screenshot of empower" width="800px" />
+<img src="/assets/images/projects/assessment-tool.gif" alt="Screenshot of Empower site" title="Screenshot of empower" width="800px" />
 <br/>
-Screenshot of toolbox page
+Spider chart visualization for progress on different competences.
 </p>
 
 <br/>
 <p align="center">
-<img src="/assets/images/projects/empower-map.png" alt="Screenshot of Empower site" title="Screenshot of empower" width="800px" />
+<img src="/assets/images/projects/assessment-tool2.png" alt="Screenshot of Empower site" title="Screenshot of empower" width="800px" />
 <br/>
-Screenshot of map page
+Survey questions, from which the results are then calculated and used to drive the spider visualizations. 
 </p>
 
 <br/>
 
 ## Tech Stack
- - Backend: Node.js, Strapi
- - Frontend: Angular, HTML, CSS
+ - D3.js
+ - Angular
 
 <a href="https://github.com/kwansupp/room-bot" target="_blank">[Repo]</a>
