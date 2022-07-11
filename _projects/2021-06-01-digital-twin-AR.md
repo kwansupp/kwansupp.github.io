@@ -4,7 +4,7 @@ title:  "Hybrid Education Experiments Pt.1: Bono Hats AR"
 subtitle: "Digital Twins and the Future of Practical Education"
 date:   2021-06-01
 permalink: /projects/:name
-categories: [AR]
+categories: [AR, Lens Studio]
 thumbnail: /assets/images/projects/DT_AR.jpeg
 type: "AR Prototype"
 ---
