@@ -21,6 +21,13 @@ Read more about project on <a href="https://digitalsocietyschool.org/project/dig
 
 <br/>
 <p align="center">
+<img src="/assets/images/projects/dt-vr-pitch.jpeg" alt="Presentations in VR" title="Presentations in VR" width="800px" />
+<br/>
+Students pitching in digital twin of Felix Meritus
+</p>
+
+<br/>
+<p align="center">
 <img src="/assets/images/projects/dt-vr-photogrammetry.jpeg" alt="Photogrammetry" title="Photogrammetry process" width="800px" />
 <br/>
 The photogrammetry process 
@@ -30,7 +37,7 @@ The photogrammetry process
 <p align="center">
 <img src="/assets/images/projects/dt-vr-hva.jpeg" alt="Presentations in VR" title="Presentations in VR" width="800px" />
 <br/>
-Presentations in VR space of HvA campus
+Presentations in digital twin of HvA campus
 </p>
 
 <br/>
