@@ -12,7 +12,7 @@ type: "Web development & systems administration for Studio Kaassouffle"
 ## Overview
 Fun landing page for Studio Kaassouffle, a multidisciplinary studio exploring wildest shower thoughts.
 
-<a href="https://kaassouffle.club/" target="_blank">[View site]</a>.
+<a href="https://kaassouffle.club/" target="_blank">[View site]</a>
 
 <br/>
 <p align="center">
