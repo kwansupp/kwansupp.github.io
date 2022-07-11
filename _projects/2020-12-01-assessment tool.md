@@ -4,7 +4,7 @@ title:  "Assessment tool"
 subtitle: "A tool to track learning progress"
 date:   2020-12-01
 permalink: /projects/:name
-categories: [web, frontend D3]
+categories: [web, frontend, D3]
 thumbnail: /assets/images/projects/assessment-tool.gif
 type: "Frontend Development @ Digital Society School"
 ---
