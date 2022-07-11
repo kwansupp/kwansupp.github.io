@@ -11,7 +11,7 @@ type: "Frontend Development @ Digital Society School"
 
 ## Overview
 
-An internal tool for learners to track their learning progress <a href="https://digitalsocietyschool.org/project/empower-energy-transition/" target="_blank">[project page]</a>.
+An internal tool for learners to track their learning progress.
 
 <br/>
 <p align="center">
