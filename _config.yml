@@ -44,16 +44,16 @@ collections:
     output: true
     permalink: /portfolio/projects/:name/
   studies:
-    output: true
+    output: false
     permalink: /portfolio/studies/:name/
   sketches:
     output: true
     permalink: /portfolio/sketches/:name/
   books:
-    output: true
+    output: false
     permalink: /books/:name/
   questions:
-    output: true
+    output: false
     permalink: /questions/:name/
 
 # defaults for collections
