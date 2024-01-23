@@ -57,4 +57,4 @@ The cover design was created by pixel-sorting an image with Python, then post-pr
 
 <!-- ## Further Reading
 <a href='/assets/docs/KwanSuppaiboonsuk-FinalThesis.pdf' target="_blank">[thesis]</a>
-
+ -->
