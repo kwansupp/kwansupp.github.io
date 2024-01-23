@@ -4,7 +4,7 @@ title:  "Poetry Book: To Be A Self"
 subtitle: "A collection of poetry and prose"
 date:   2021-10-31
 categories: [poetry, writing, visual design]
-thumbnail: /assets/images/projects/tobeaself-poetrybook-cut.png
+thumbnail: /assets/images/projects/tobeaself-poetrybook-sticker.jpg.png
 type: "Writing & Cover design, resulting in a published book"
 ---
 
@@ -37,10 +37,15 @@ and step back into this skin
 -- what is it to be a self?
 
 <br/>
+
+This is a collection of 20 poetry and prose pieces written in August 2023, exploring themes of belonging, brokenness, redemption, (self-)love, and capturing beauty in the little moments of life.
+
+The cover design was created by pixel-sorting an image with Python, then post-processed for coloring in PhotoShop.
+
+<br/>
 <p align="center">
 <img src="/assets/images/projects/tobeaself-poetrybook-full.png" alt="Book cover of To Be a Self" title="book cover" width="600px" />
 <br/>
-Cover design was created by pixel-sorting an image with Python, then post-processing the color in PhotoShop.
 </p>
 
 
