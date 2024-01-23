@@ -22,7 +22,7 @@ seeking out and looking in
 to find the worlds within
 and step back into this skin
  
-- what is it to be a self?
+-- what is it to be a self?
 
 <br/>
 <p align="center">
