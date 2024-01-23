@@ -4,7 +4,7 @@ title:  "Poetry Book: To Be A Self"
 subtitle: "A collection of poetry and prose"
 date:   2021-10-31
 categories: [poetry, writing, visual design]
-thumbnail: /assets/images/projects/tobeaself-poetrybook-sticker.jpg.png
+thumbnail: /assets/images/projects/tobeaself-poetrybook-sticker.jpg
 type: "Writing & Cover design, resulting in a published book"
 ---
 
