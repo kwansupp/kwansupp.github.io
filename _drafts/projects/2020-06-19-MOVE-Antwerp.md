@@ -1,23 +1,20 @@
 ---
 layout: project
-title:  "Virtual Community Platform Mockup"
+title:  "MOVE Antwerp"
 subtitle: "Real-time Notification of Rental House Posting"
 date:   2020-03-19
 permalink: /projects/:name
-categories: [frontend, bulma, web design]
+categories: [business development, user research, innovation & IT strategy, consulting]
 thumbnail: /assets/images/projects/vcp-demo-web.jpg
-type: "Side Project"
+type: "Consulting Traineeship"
 ---
 
 ## Overview
 
-A responsive mockup of a social platform. The idea behind the platform is to have a virtual space where artists can promote their work and receive donations during COVID-19.
-
-With this project, I wanted to learn more about Bulma, a modular CSS framework.
+..
 
 
-
-<br/>
+<!-- <br/>
 <p align="center">
 <img src="/assets/images/projects/vcp-demo-mobile.jpg" alt="Screenshot of mobile view of platform" title="View of platform from minimized screen" width="400px" />
 <br/>
@@ -27,4 +24,4 @@ Screenshot of platform from a minimized screen. Checkout the mockup in the demo 
 <br/>
 
 <a href="https://github.com/kwansupp/vcp-demo" target="_blank">[repo]</a>
-<a href="https://kwansupp.github.io/vcp-demo/" target="_blank">[demo]</a>
+<a href="https://kwansupp.github.io/vcp-demo/" target="_blank">[demo]</a> -->
